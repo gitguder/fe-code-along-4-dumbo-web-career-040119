@@ -105,7 +105,7 @@ Here we gave it a fixed width and centered it by giving it auto margin on the le
 Next lets create some classes for some columns.
 
 ```css
-/*////////// LAYOUT //////////*/
+/*////////// LAYOUT ///////////*/
 
 .wrapper {
   width: 960px;
